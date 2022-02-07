@@ -1,0 +1,60 @@
+div {
+  width: 100%;
+  background-color: #22577E;
+  text-align: center;
+}
+
+h1, h2, h3, h4, p, td, label {
+  color: #F6F2D4;
+}
+a {
+  color: #F6F2D4;
+  text-decoration: none;
+}
+
+body {
+  font-family: "century gothic";
+  background-color: #5584AC;
+  background-image: url("./imagens/background.png"); 
+  background-size: cover;
+  
+}
+
+td {
+  width: 20%;
+  text-align: center;
+}
+
+.footer {
+  width: 300px;
+}
+
+.destinos {
+  background-color: #5584AC;
+  border-radius: 5%;
+}
+
+.locais {
+  width: 200px;
+  height: 150px;
+}
+
+footer {
+  text-align: center;
+  background-color: #22577E;
+  border-radius: 5%;
+}
+
+.formulario {
+  width: 50%;
+  margin-left: 25%;
+  padding: 5px;
+  border-radius: 10%;
+}
+
+button {
+  font-family: "century gothic";
+  background-color: #F6F2D4;
+  color: #22577E;
+  padding: 5px;
+}
